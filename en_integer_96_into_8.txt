@@ -1,0 +1,15 @@
+How to install laravel at your pc?
+
+Step-01: Download and install XAMP or WAMP Latest versions.
+Step-02: Download and install 'php composer' at google search
+Step-03: Check version of php in xamp shell operation using command
+             php -v // php vesrion
+             composer // is insatllion confirm
+Step-04: Check internet connection
+Step-05: Go to xamp shell operations
+step-06: Inter this command line 'c htdocs'
+Step-07: Download laravel latest verssions from github using command line
+             First Line: composer global require laravel/installer
+	Second Line: laravel new blog	
+Step-08: After few minutes installtion have been successfully if your internet connection is speed.
+             	
